@@ -14,13 +14,13 @@
 						</ol>							<!-- Wrapper for slides -->
 						<div class="carousel-inner">
 								<div class="item active">
-										<img src="<?php echo base_url("assets/img/1.png") ?>" alt=""  height="200px"width="1000px"class="well text-center">
+										<img src="<?php echo base_url("assets/img/1.png") ?>" alt=""  height="300px"width="1000px"class="well text-center">
 								</div>
 								<div class="item text_center">
-										<img src="<?php echo base_url("assets/img/2.png") ?>" alt="" height="200px" width="1000px" class="well text-center">
+										<img src="<?php echo base_url("assets/img/2.png") ?>" alt="" height="300px" width="1000px" class="well text-center">
 								</div>
 								<div class="item text_center">
-										<img src="<?php echo base_url("assets/img/3.png") ?>" alt="" height="200px"width="1000px" class="well text-center">
+										<img src="<?php echo base_url("assets/img/3.png") ?>" alt="" height="300px"width="1000px" class="well text-center">
 								</div>
 
 						</div>
